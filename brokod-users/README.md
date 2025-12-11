@@ -24,7 +24,7 @@ It fetches and displays a list of users from a public API (`https://jsonplacehol
 ## 🔗 GitHub Repository
 The project is hosted publicly on GitHub:  
 
-[https://github.com/YOUR_USERNAME/brokod-users](https://github.com/YOUR_USERNAME/brokod-users)
+[https://github.com/aditiz11/brokod-users](https://github.com/aditiz11/brokod-users)
 
 ---
 
