@@ -1,10 +1,5 @@
 # 🌟 Brokod User Directory - React Assignment
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/issues)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/network)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/stargazers)
 
 ---
 
