@@ -1,44 +1,44 @@
-🌟 Brokod User Directory - React Assignment
+# 🌟 Brokod User Directory - React Assignment
 
-📝 Project Overview
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
-This is a modern React.js web application built for the Brokod Software Engineer Intern assignment.
+[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/issues)
+[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/network)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/brokod-users)](https://github.com/YOUR_USERNAME/brokod-users/stargazers)
 
-The app fetches and displays a list of users from a public API (https://jsonplaceholder.typicode.com/users) and includes:
+---
 
-Clean, modern, responsive UI
+## 📝 Project Overview
+This is a **modern React.js web application** built for the **Brokod Software Engineer Intern assignment**.
 
-Single search bar with dropdown filter (Name / Company)
+It fetches and displays a list of users from a public API (`https://jsonplaceholder.typicode.com/users`) and includes:
 
-Paginated user cards (9 per page)
+- ✅ Responsive user grid (9 cards per page)
+- 🔍 Single search bar with dropdown filter (Name / Company)
+- 📄 Modal popup for detailed user info
+- ⬆ Scroll-to-top floating button
+- 🎨 Glassmorphism card design + hover effects
 
-Modal popup for detailed user info
+---
 
-Scroll-to-top floating button
+## 🔗 GitHub Repository
+The project is hosted publicly on GitHub:  
 
-Glassmorphism card design + smooth hover effects
+[https://github.com/YOUR_USERNAME/brokod-users](https://github.com/YOUR_USERNAME/brokod-users)
 
-🔗 GitHub Repository
+---
 
-The project is hosted publicly on GitHub:
+## ✨ Features
+| Feature | Description |
+|---------|-------------|
+| Responsive Grid | Cards adapt to screen size |
+| Search & Filter | Filter users by Name or Company |
+| Pagination | Shows 9 user cards per page |
+| Modal Details | View phone, website, address, company info |
+| Scroll-to-Top | Smooth scrolling button |
+| Modern UI | Glassmorphism effect and hover animations |
 
-https://github.com/aditiz11/brokod-users
-
-Recruiters can clone the repo and run it locally.
-
-✨ Features
-
-Responsive Grid Layout: Cards adapt to screen size
-
-Search & Filter: Filter users by Name or Company with a single search bar
-
-Pagination: Shows 9 user cards per page
-
-Modal Details: View phone, website, address, and company details
-
-Scroll-to-Top Button: Smooth scrolling back to top
-
-Modern UI: Glassmorphism effect and hover animations
+---
 
 📸 Screenshots
 
@@ -55,15 +55,17 @@ Pagination & Scroll-to-Top:
 <img width="1920" height="1020" alt="Screenshot 2025-12-11 195356" src="https://github.com/user-attachments/assets/bcd17b53-93c0-4aac-9652-0c0a590550a0" />
 
 
-⚡ Installation Instructions
+---
 
-Clone the repository:
+## ⚡ Installation
 
+1. **Clone the repository**
+
+```bash
 git clone https://github.com/YOUR_USERNAME/brokod-users.git
 cd brokod-users
-
-
-Install dependencies:
+```
+**Install dependencies:**
 
 npm install
 
@@ -78,7 +80,8 @@ Open http://localhost:5173
 
 If using Create React App (CRA), run npm start instead
 
-🗂 Project Structure
+**🗂 Project Structure**
+```bash
 brokod-users/
  ├─ src/
  │   ├─ components/
@@ -89,9 +92,10 @@ brokod-users/
  │   └─ main.jsx
  ├─ package.json
  └─ README.md
+```
 
-🛠 Technologies Used
-
+**🛠 Technologies Used**
+```bash
 React.js (functional components + hooks)
 
 HTML5 & CSS3
@@ -101,37 +105,17 @@ Fetch API for network requests
 Vite (or CRA) for project setup
 
 Git & GitHub for version control
+```
 
-🚀 Optional Deployment
-
-You can deploy this project using GitHub Pages:
-
-Install gh-pages:
-
-npm install gh-pages --save-dev
-
-
-Add deploy scripts in package.json
-
-Build & deploy:
-
+**Build & deploy:**
+```bash
 npm run build
 npm run deploy
-
-💡 Future Improvements
-
-Add skeleton loaders for better UX
-
-Implement debounced search for faster filtering
-
-Add dark/light theme toggle
-
-Animate modal and cards using Framer Motion
-
-Add unit tests for components
+```
 
 👤 Author
 
 Your Name – Aditi
 
-GitHub: https://github.com/aditiz11
+GitHub: [https://github.com/aditiz11](https://github.com/aditiz11)
+
